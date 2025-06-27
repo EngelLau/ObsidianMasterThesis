@@ -24,7 +24,8 @@ This should be a collection of all reference I use for my thesis:
 
 ### Celltype Deconvolution
 
-- DTD?
+- [DTD](https://doi.org/10.1089/cmb.2019.0462) by Götler, et al. (2020)
+- 
 
 ### Mathematical Background?
 - NMF

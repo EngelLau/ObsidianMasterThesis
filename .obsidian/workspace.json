@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References.md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "References"
+              "title": "Methods"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for References"
+              "title": "Backlinks for Methods"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from References"
+              "title": "Outgoing links from Methods"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md",
+                "file": "Methods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of References"
+              "title": "Outline of Methods"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c155414e55cc9a",
+  "active": "1d47798f59771406",
   "lastOpenFiles": [
-    "Methods.md",
     "References.md",
+    "Methods.md",
     "Introduction.md",
     "Master Thesis.md",
     "2025-06-27.md",
