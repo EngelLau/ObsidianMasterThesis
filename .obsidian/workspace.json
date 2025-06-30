@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -181,14 +181,14 @@
   },
   "active": "1d47798f59771406",
   "lastOpenFiles": [
-    "Introduction.md",
-    "References.md",
-    "Methods.md",
     "Master Thesis.md",
+    "Methods.md",
+    "References.md",
+    "Results.md",
+    "Introduction.md",
+    "Discussion.md",
     "2025-06-27.md",
     "Untitled.canvas",
-    "Discussion.md",
-    "Results.md",
     "create a link.md"
   ]
 }
