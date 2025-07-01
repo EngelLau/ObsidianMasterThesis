@@ -17,11 +17,13 @@ This should be a collection of all reference I use for my thesis:
 	- 
 
 ### Sequencing Technologies
+RNAseq
+scRNAseq
 #### Bulk Seqencing
 #### Single Cell Sequencing
 
 ### Emergence of Problem
-
+Most Deconvolution methods base on static reference matrix which does not correspond to the high vairiablility between transcriptomes of different conditions
 ### Celltype Deconvolution
 
 - [DTD](https://doi.org/10.1089/cmb.2019.0462) by Götler, et al. (2020)
