@@ -11,6 +11,30 @@
             "id": "6045e4e88c5c99d9",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250703183828.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250703183828"
+            }
+          },
+          {
+            "id": "e5d22f1de27b88cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250703183842.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250703183842"
+            }
+          },
+          {
+            "id": "6fd7b78cbd90669d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Results.md",
@@ -21,7 +45,8 @@
               "title": "Results"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,12 +204,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6045e4e88c5c99d9",
+  "active": "6fd7b78cbd90669d",
   "lastOpenFiles": [
+    "Images/Pasted image 20250703183930.png",
+    "Results.md",
+    "Images/Pasted image 20250703183828.png",
+    "Images/Pasted image 20250703183842.png",
+    "Images/Pasted image 20250703183853.png",
+    "Images",
+    "Images/Pasted image 20250703184007.png",
+    "Images/Pasted image 20250703183956.png",
+    "Images/Pasted image 20250703183903.png",
     "References.md",
     "Introduction.md",
     "Master Thesis.md",
-    "Results.md",
     "Discussion.md",
     "Methods.md",
     "2025-06-27.md",
