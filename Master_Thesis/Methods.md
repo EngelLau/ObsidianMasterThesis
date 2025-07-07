@@ -51,7 +51,8 @@ Here G is a weight for each gene, a buffers the biological variance in the refer
 
 
 ## Evaluation
-Apply dynamics and measure pearson correlarion of real and predicted abundance
+In order to evaluate the prediction performance of the deconvolution model, the model is trained on 9 random chosen samples of the mild and critical COVID-19 condition. The trained model is then applied on simulated bulks of the left out samples of the training, also part of the two COVID-19 conditions, mild and critical. The resulting prediction is is then compared with the true abundance of the cell types. For this comparison the Pearson correlation is used as the prediction of the deconvolution model is not normalized to 1 and so does not output the share of the cell types.
+
 ## Ablation Study
 In the sense of showing the effect that our feature of dynamic reference matric generation has, an ablation study was initiated. Thie means the same prediction task was done with a DynaMiCs model wich uses  instead of the theta influenced reference matrix within the inference just the mean of te training data for each cell type and gene as a static reference matrix.
 
