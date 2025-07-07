@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master_Thesis/Methods.md",
+                "file": "Master_Thesis/Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods"
+              "title": "Results"
             }
           }
         ],
@@ -194,10 +194,17 @@
   },
   "active": "e5d22f1de27b88cf",
   "lastOpenFiles": [
+    "ROC_PR.pdf",
+    "boxplots.pdf",
+    "Differential_UMAP2.pdf",
+    "Benchmark_Study_Results_Performance_per_CT.pdf",
+    "Benchmark_Study_Results_Overall_Performance.pdf",
+    "Ablation_Study_Results_Overall_Performance.pdf",
+    "Ablation_Study_Results_Performance_per_CT.pdf",
+    "Master_Thesis/Methods.md",
     "Notes & Ideas/2025-07-07.md",
     "Notes & Ideas/Ideas & TODOs.md",
     "Images/Pasted image 20250703183828.png",
-    "Master_Thesis/Methods.md",
     "Images/Pasted image 20250703183842.png",
     "References.md",
     "Notes & Ideas",

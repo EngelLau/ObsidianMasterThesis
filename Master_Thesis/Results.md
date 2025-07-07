@@ -17,19 +17,20 @@ Overall Performance: 0.8576
 | 7   | ncMono    | 0.830132<br> |
 
 
-## Ablation Study
-![[Pasted image 20250703183828.png]]
+## Ablation Study![[Ablation_Study_Results_Overall_Performance.pdf]]
+![[Ablation_Study_Results_Performance_per_CT.pdf]]
 
-![[Pasted image 20250703183842.png]]
+
 ## GridSearch / Parameter Benchmarks
 
 ## Benchmarks vs state-of-the-art
 
-![[Pasted image 20250703183853.png]]
-![[Pasted image 20250703183903.png]]
-# Mapping vs Population
-![[Pasted image 20250703183956.png]]
-![[Pasted image 20250703184007.png]]
-## Mapping per Patient / Prediction
-![[Pasted image 20250703183930.png]]
+![[Benchmark_Study_Results_Overall_Performance.pdf]]
 
+![[Benchmark_Study_Results_Performance_per_CT.pdf]]
+# Mapping vs Population
+![[Differential_UMAP2.pdf]]
+![[boxplots.pdf]]
+## Mapping per Patient / Prediction
+
+![[ROC_PR.pdf]]
