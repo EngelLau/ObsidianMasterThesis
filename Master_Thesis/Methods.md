@@ -3,6 +3,7 @@ Additionaly the different Benchmarks and Application steps should be described
 
 ## Data
 ### Preprocessing
+jakob?
 
 ### COMBAT
 - COVID Data -> Single Cell RNAseq
@@ -48,21 +49,28 @@ with $X^{(k)} \epsilon R^{p x n_k}$
 Here G is a weight for each gene, a buffers the biological variance in the references and theta is a weight for each of the training expression profiles for the generation of the reference profile $X_{ref, k} = a_k \cdot X^{(k)} \cdot \Theta^{(k)}$
 ### Inference
 
+
 ## Evaluation
 Apply dynamics and measure pearson correlarion of real and predicted abundance
 ## Ablation Study
-remove the dynamics feature to achieve a model that uses only static X_ref
+In the sense of showing the effect that our feature of dynamic reference matric generation has, an ablation study was initiated. Thie means the same prediction task was done with a DynaMiCs model wich uses  instead of the theta influenced reference matrix within the inference just the mean of te training data for each cell type and gene as a static reference matrix.
 
 ## Benchmarks
+In order to compare the DynaMiCs model with state-of-the-art models a benchmark study was done. If needed the models were trained on the same single cell data and applied on the same simulated bulk data. Competitors of DynaMiCs in this benchmark were the models MuSiC, SCDC and BayesPrism. Due to time contraints MuSiC had to be trained on only 30.000 instead of 150.000.
+
 Test dynaMiCs against different other models: 
 MuSiC (perhaps only 30.000 cell instead of 150.000)
 SCDC
 BayesPrism
 ## "Domain Adaptation"
+To show the ability of DynaMiCs to adapt to new condition not in the training data, its performance on conditions  outside the training data was tested. Here different scenarios were tested. differing between the groups of conditions in training and test set.
+
 train the model on only subgroup of states in the training data use the other for testing
 different more or less strong scenarios
 ## Real-Life Bulk Data
 Use Bulk Data and eval via cytoTOF
 
 ## GridSearch
+In order to achieve the best performance of DynaMiCs a hyperparameter GridSearch is applied. In this GridSearch the same training and test data were used and parameter such as the learing rate are varied.
+
 Iterate over different parameters and define the best work via CV?

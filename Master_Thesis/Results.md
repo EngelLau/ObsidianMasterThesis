@@ -1,4 +1,4 @@
-This chapter contains the different results of the experiments described in the [[methods]] chapter.
+This chapter contains the different results of the experiments described in the [[Methods]] chapter.
 
 ## Evaluation
 
