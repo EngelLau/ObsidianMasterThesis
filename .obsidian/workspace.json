@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4527bf64618b2758",
+        "id": "8246bee6014e8c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d47798f59771406",
+            "id": "c5759da00ae86b78",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Master Thesis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Master Thesis"
             }
           }
         ]
@@ -179,15 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d47798f59771406",
+  "active": "c5759da00ae86b78",
   "lastOpenFiles": [
     "Introduction.md",
-    "References.md",
-    "Methods.md",
+    "Discussion.md",
     "Master Thesis.md",
+    "Methods.md",
+    "References.md",
     "2025-06-27.md",
     "Untitled.canvas",
-    "Discussion.md",
     "Results.md",
     "create a link.md"
   ]
