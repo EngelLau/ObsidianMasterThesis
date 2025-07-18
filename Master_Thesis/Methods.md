@@ -1,4 +1,4 @@
-This chapter should explain how DynaMiCs works which omptimization steps and parameters were used. 
+This chapter should explain how DynaMiCs works which optimization steps and parameters were used. 
 Additionaly the different Benchmarks and Application steps should be described
 
 ## Data
