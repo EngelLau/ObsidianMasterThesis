@@ -1,0 +1,1 @@
+BayesPrism is an bayes based approach of cell type deconvolution. It uses the prior information of the single cell reference to determine the posterior distribution of each cell type as well as the gene expression of these cell types.
