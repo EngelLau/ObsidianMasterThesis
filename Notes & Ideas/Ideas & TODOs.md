@@ -7,3 +7,5 @@
 - [x] Mapping on whole data
 - [ ] bulk scripts implementation 
 
+See in CIBERSORTx the whole blood experiment: 
+![[Pasted image 20250802111848.png]]
