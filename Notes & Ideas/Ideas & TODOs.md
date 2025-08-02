@@ -6,6 +6,7 @@
 - [x] Gesamt UMAP
 - [x] Mapping on whole data
 - [ ] bulk scripts implementation 
-
+- [ ] Add constraint -> add up to 1
+- [ ] 
 See in CIBERSORTx the whole blood experiment: 
 ![[Pasted image 20250802111848.png]]
