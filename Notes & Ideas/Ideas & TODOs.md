@@ -10,3 +10,5 @@
 - [ ] Azimuth Marker Genes von Franziska organisizeren
 See in CIBERSORTx the whole blood experiment: 
 ![[Pasted image 20250802111848.png]]
+- [ ] Warum kein Gamma in Apply (nur in Loss fn)
+- [ ] 2 Verschiedene Gammas?
