@@ -12,7 +12,7 @@
 - [ ] Statistical Test if benchmark
 - [ ] EnrichementPLotsR package for enrichment plots
 - [ ] Single Cell Transcriptomics Explained
-- [ ] Bulk transcription explained
+- [ ] Bulk transcription explained (https://www.nature.com/articles/nrg2484)
 
 
 See in CIBERSORTx the whole blood experiment: 
@@ -23,3 +23,4 @@ See in CIBERSORTx the whole blood experiment:
 - [ ] Mapping Single -> norm Thetas -> 1. condition wise &  2. on to 1
 - [ ] ROC curves -> sort x coordinates
 - [ ] Performance per CT
+- [ ] 
