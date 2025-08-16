@@ -10,8 +10,14 @@
 - [x] Azimuth Marker Genes von Franziska organisizeren
 - [ ] CyTOF DeplGran
 - [ ] Statistical Test if benchmark
+- [ ] EnrichementPLotsR package for enrichment plots
+- [ ] Single Cell Transcriptomics Explained
+- [ ] Bulk transcription explained (https://www.nature.com/articles/nrg2484)
+
+
 See in CIBERSORTx the whole blood experiment: 
 ![[Pasted image 20250802111848.png]]
+
 - [ ] Warum kein Gamma in Apply (nur in Loss fn)
 - [ ] 2 Verschiedene Gammas?
 - [ ] Mapping Single -> norm Thetas -> 1. condition wise &  2. on to 1
