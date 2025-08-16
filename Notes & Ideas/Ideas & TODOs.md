@@ -17,3 +17,4 @@ See in CIBERSORTx the whole blood experiment:
 - [ ] Mapping Single -> norm Thetas -> 1. condition wise &  2. on to 1
 - [ ] ROC curves -> sort x coordinates
 - [ ] Performance per CT
+- [ ] Loss normieren um kleineren loss zu erhalten in initial guess
