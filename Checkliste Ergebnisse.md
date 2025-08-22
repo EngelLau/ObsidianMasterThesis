@@ -1,18 +1,18 @@
 # Benchmarks
 Benchmarks major: 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 Benchmarks minor: 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 
 ---
 ## Benchmarks + condition Transfer
@@ -23,21 +23,21 @@ Benchmarks COVID2Influneza:
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
-Benchmarks ... : 
+Benchmarks COVID2Normal : 
 - [ ] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
-Benchmarks ... : 
+Benchmarks Influenza2Normal : 
 - [ ] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
-Benchmarks ... : 
+Benchmarks COV_CRIT_MILD2OtherCOV : 
 - [ ] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
