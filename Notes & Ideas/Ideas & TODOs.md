@@ -14,7 +14,7 @@
 - [ ] Single Cell Transcriptomics Explained
 - [ ] Bulk transcription explained (https://www.nature.com/articles/nrg2484)
 - [ ] GridSearch mit CV
-- [ ] non dynamic ohne theta oder nur ohne eta?
+- [x] non dynamic ohne theta oder nur ohne eta?
 
 
 See in CIBERSORTx the whole blood experiment: 
