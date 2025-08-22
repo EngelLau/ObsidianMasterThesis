@@ -20,28 +20,28 @@ Benchmarks COVID2Influneza:
 - [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks COVID2Normal : 
 - [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks Influenza2Normal : 
 - [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks COV_CRIT_MILD2OtherCOV : 
 - [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
-- [ ] Deconomix
+- [x] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 ---
