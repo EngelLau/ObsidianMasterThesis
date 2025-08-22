@@ -17,28 +17,28 @@ Benchmarks minor:
 ---
 ## Benchmarks + condition Transfer
 Benchmarks COVID2Influneza: 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks COVID2Normal : 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks Influenza2Normal : 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
 - [ ] scaden
 - [ ] DeconRNASeq
 Benchmarks COV_CRIT_MILD2OtherCOV : 
-- [ ] DynaMiCs      
+- [x] DynaMiCs      
 - [ ] BayesPrism
 - [ ] MuSic
 - [ ] Deconomix
