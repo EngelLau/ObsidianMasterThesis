@@ -1,0 +1,8 @@
+- Ablation Study Results -> remove the 2 guess steps
+- Benchmarks & Sampling 
+- Bulk?
+- Abstract 
+- Graphical Abstract
+- Prediction / Classification -> Predictor anpassen?
+- scaden noch versuchen?
+- 
