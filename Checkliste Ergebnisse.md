@@ -2,14 +2,14 @@
 Benchmarks major: 
 - [x] DynaMiCs      
 - [ ] BayesPrism
-- [ ] MuSic
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
 - [x] DeconRNASeq
 Benchmarks minor: 
 - [x] DynaMiCs      
 - [ ] BayesPrism
-- [ ] MuSic
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
 - [x] DeconRNASeq
