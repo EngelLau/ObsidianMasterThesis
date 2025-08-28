@@ -1,5 +1,5 @@
 - [x] Implement extraction of thetas within the iterations while training / application
-- [ ] Replicate Enrichment Analysis 
+- [x] Replicate Enrichment Analysis 
 - [x] CytoTOF as groundtruth for wholeBlood
 - [x] Simulation Funktion -> hochsamplen auf balance  (x)
 - [x] colorbar leuchtendere Farben (x)
@@ -13,7 +13,7 @@
 - [ ] EnrichementPLotsR package for enrichment plots
 - [ ] Single Cell Transcriptomics Explained
 - [ ] Bulk transcription explained (https://www.nature.com/articles/nrg2484)
-- [ ] GridSearch mit CV
+- [x] GridSearch mit CV
 - [x] non dynamic ohne theta oder nur ohne eta?
 
 
@@ -23,6 +23,6 @@ See in CIBERSORTx the whole blood experiment:
 - [ ] Warum kein Gamma in Apply (nur in Loss fn)
 - [ ] 2 Verschiedene Gammas?
 - [ ] Mapping Single -> norm Thetas -> 1. condition wise &  2. on to 1
-- [ ] ROC curves -> sort x coordinates
+- [x] ROC curves -> sort x coordinates
 - [ ] Performance per CT
 - [ ] Loss normieren um kleineren loss zu erhalten in initial guess
