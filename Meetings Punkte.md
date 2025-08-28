@@ -1,4 +1,4 @@
-- Ablation Study Results -> remove the 2 guess steps
+- Ablation Study Results -> remove the 2 guess steps (x)
 - Benchmarks & Sampling 
 - Bulk?
 - Abstract 
