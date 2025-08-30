@@ -1,14 +1,14 @@
 # Benchmarks
 Benchmarks major: 
 - [x] DynaMiCs      
-- [ ] BayesPrism
+- [x] BayesPrism
 - [x] MuSic
 - [x] Deconomix
 - [ ] scaden
 - [x] DeconRNASeq
 Benchmarks minor: 
 - [x] DynaMiCs      
-- [ ] BayesPrism
+- [x] BayesPrism
 - [x] MuSic
 - [x] Deconomix
 - [ ] scaden
@@ -18,46 +18,46 @@ Benchmarks minor:
 ## Benchmarks + condition Transfer
 Benchmarks COVID2Influneza: 
 - [x] DynaMiCs      
-- [ ] BayesPrism
-- [ ] MuSic
+- [x] BayesPrism
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 Benchmarks COVID2Normal : 
 - [x] DynaMiCs      
-- [ ] BayesPrism
-- [ ] MuSic
+- [x] BayesPrism
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 Benchmarks Influenza2Normal : 
 - [x] DynaMiCs      
-- [ ] BayesPrism
-- [ ] MuSic
+- [x] BayesPrism
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 Benchmarks COV_CRIT_MILD2OtherCOV : 
 - [x] DynaMiCs      
-- [ ] BayesPrism
-- [ ] MuSic
+- [x] BayesPrism
+- [x] MuSic
 - [x] Deconomix
 - [ ] scaden
-- [ ] DeconRNASeq
+- [x] DeconRNASeq
 ---
 # Ablation Study
-- [ ] major
-- [ ] minor
+- [x] major
+- [x] minor
 ---
 # Population Mapping
 ---
 # $\eta$ - mapping (Classification)
 ---
 # Enrichment Analysis
-- [ ] Heatmap
-- [ ] Enrichment Plots
-- [ ] Theta Trajectory
-- [ ] Marker abundance heatmap
+- [x] Heatmap
+- [x] Enrichment Plots
+- [x] Theta Trajectory
+- [x] Marker abundance heatmap
 ---
 # GridSearch
 - [ ] Major
