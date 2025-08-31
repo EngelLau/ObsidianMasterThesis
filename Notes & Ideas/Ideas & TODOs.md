@@ -20,9 +20,9 @@
 See in CIBERSORTx the whole blood experiment: 
 ![[Pasted image 20250802111848.png]]
 
-- [x] Warum kein Gamma in Apply (nur in Loss fn)
 - [x] 2 Verschiedene Gammas?
 - [x] Mapping Single -> norm Thetas -> 1. condition wise &  2. on to 1
 - [x] ROC curves -> sort x coordinates
 - [x] Performance per CT
 - [ ] Loss normieren um kleineren loss zu erhalten in initial guess
+- [ ] Warum kein Gamma in Apply (nur in Loss fn)
