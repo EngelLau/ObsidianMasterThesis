@@ -8,7 +8,7 @@
 - [x] bulk scripts implementation 
 - [ ] Add constraint -> add up to 1
 - [x] Azimuth Marker Genes von Franziska organisizeren
-- [ ] CyTOF DeplGran
+- [x] CyTOF DeplGran
 - [ ] Statistical Test if benchmark
 - [x] EnrichementPLotsR package for enrichment plots
 - [ ] Single Cell Transcriptomics Explained
