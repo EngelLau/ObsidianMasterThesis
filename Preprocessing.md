@@ -20,4 +20,17 @@ np.False_
 np.False_
 
 adata_flrtd = adata[:,adata.X.count_nonzero(axis=0) > 3]
+sum_x = adata_flrtd.X.sum(axis=0)
+sum_x2= np.array(X.multiply(X).sum(axis=0))
+n_cells = adata_flrtd.X.shape[0]
 
+mean = sum_x / n_cells
+mean = np.array(mean).flatten()
+sum_x2 = sum_x2.flatten()
+variances = (sum_x2 / n_cells) - (mean ** 2)
+
+`top_genes_idx = np.argsort(variances)[-5000:][::-1]
+`top_genes = adta_fltrd.var_names[top_genes_idx]
+
+adata_flrtd_top5000 = adata_flrtd[:,top_genes_idx]
+adata_flrtd_top5000.write_h5ad("/mnt/data/raw/combat_adata_fltrd_top5000genes.h5ad")
